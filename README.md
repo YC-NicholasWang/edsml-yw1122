@@ -1,7 +1,11 @@
 👋 Hi, I’m Yicheng Wang (Nicholas)
+
 👀 I’m interested in information engineering (target tracking), data science, and machine learning
+
 🌱 I’m currently learning MSc Environmental Data Science and Machine Learning in Imperial College London
+
 💞️ I’m also working as an intern in the CDT Distributed Algorithm in University of Liverpool
+
 📫 Reach me on yw1122@ic.ac.uk
 
 <!---
